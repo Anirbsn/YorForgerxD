@@ -8,29 +8,29 @@ module.exports = {
     /**
      * bot details and parameters
      */
-    botname: process.env.BotName || "Queen Anya Bot",
-    footer: process.env.Footer || "© Powered By Queen Anya Bot",
+    botname: process.env.BotName || "𝐘ᴏʀ 𝐅ᴏʀɢᴇʀ",
+    footer: process.env.Footer || "© Powered By 𝐘ᴏʀ 𝐅ᴏʀɢᴇʀ",
     prefa: process.env.Prefix || "-",
     themeemoji: process.env.ThemeEmoji || "🎐",
 
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
-    instagramId: process.env.Insta || "3.69_pika",
+    ownername: process.env.Owner_Name || "Aɴɪʀʙᴀɴ",
+    ownernumber: process.env.Owner_Number || "918158821400",
+    instagramId: process.env.Insta || "@administrator.ae",
 
     /**
      * other details and parameters
      */
-    author: process.env.Author || "@PikaBotz",
-    packname: process.env.PackName || "Queen Anya v2 MD",
-    socialLink: process.env.Web || "https://github.com/PikaBotz",
-    groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
+    author: process.env.Author || "@ThunderBoltFantasy",
+    packname: process.env.PackName || "Yᴏʀ ғᴏʀɢᴇʀ",
+    socialLink: process.env.Web || "https://github.com/Anirbsn",
+    groupLink: process.env.GcLink || "https://chat.whatsapp.com/Eij7WbOgTcY3V44xFKRIZ8",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: Number(process.env.Cooldown_Timer_Seconds) || 5, // default cooldown time per command in seconds
-    mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
-    sessionId: process.env.SESSION_ID || "YOUR_SESSION_ID",
+    mongoUrl: process.env.MongoDB || "mongodb+srv://jc07cv9k3k:bEWsTrbPgMpSQe2z@cluster0.nfbxb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    sessionId: process.env.SESSION_ID || "a3AyeHd_AN_YA_rbGY=",
 
     /**
      * thumbnails and medias
